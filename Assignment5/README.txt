@@ -5,6 +5,7 @@ Assignment 5 submission
 
 
 Program purpose:
+2D video game. Heroes will try to make their way to the end of a cave filled with flying monkeys and birds, who fall from the sky and deal damage. 
 
 Included files:
 
