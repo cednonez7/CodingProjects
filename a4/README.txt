@@ -4,7 +4,7 @@ Cedric Nonez
 101268510
 
 Program purpose:
-Runs a multithreaded restaurant server, which has a list of patrons, each with their own list of reservations
+Runs a restaurant server, which has a list of patrons, each with their own list of reservations
 
 Included files:
 
